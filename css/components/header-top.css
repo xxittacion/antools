@@ -1,0 +1,42 @@
+.header-top {
+    padding-top: 26px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 117px;
+}
+
+.header-top__logo {
+    font-weight: 600;
+    font-size: 22px;
+    margin-left: 50px;
+}
+.header-top__logo::before {
+    position: absolute;
+    content: "";
+    width: 38px;
+    height: 38px;
+    display: inline-block;
+    transform: translateX(-135%) translateY(-20%);
+    background: url(/img/svg/header-top-logo-ico.svg) no-repeat center;
+}
+
+.header-top__list {
+    justify-content: space-between;
+}
+
+.header-top__item:not(:last-child) {
+    margin-right: 42px;
+}
+
+.header-top__login {
+    margin-right: 41px;
+    font-weight: 600;
+}
+
+.header-top__sign-up {
+    color: #FDF5FF;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: 8px;
+    background: #FF6E30;
+}

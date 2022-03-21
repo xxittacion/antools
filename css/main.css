@@ -1,0 +1,16 @@
+@import "/css/_reset.css";
+@import "/css/_fonts.css";
+@import "/css/_global.css";
+@import "/css/_overall.css";
+
+
+/* components */
+@import "/css/components/_header.css";
+@import "/css/components/header-top.css";
+@import "/css/components/_header-main.css";
+@import "/css/components/_main-top.css";
+@import "/css/components/_main-aside.css";
+@import "/css/components/_main-content.css";
+@import "/css/components/_main-bottom.css";
+@import "/css/components/_recording.css";
+@import "/css/components/_footer.css";

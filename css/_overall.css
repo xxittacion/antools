@@ -1,0 +1,21 @@
+.site-container {
+    overflow: hidden;
+    background: #1E252B;
+}
+
+.container {
+    max-width: 1224px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.link {
+    text-decoration: none;
+}
+.link:hover, .link:focus {
+    opacity: .75;
+}
