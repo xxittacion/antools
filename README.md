@@ -8,3 +8,5 @@
 4. *Для: "body" задать шрифт, остальным элементам задать стили которые повторяются*
 5. *Настройка контейнера и других общих стилей макета в _overall.css*
 6. *Корректировка макета с помощью "pixel-perfect"*
+
+[![Figma project](https://www.figma.com/file/B3j5GjKALOm84m2BzTmuf3/Antools)
