@@ -1,42 +1,42 @@
 .main-aside {
-    border-radius: 25px;
-    backdrop-filter: blur(50px);
-    background: rgba(44, 53, 61, 0.2);
-    margin-bottom: 225px;
+	border-radius: 25px;
+	backdrop-filter: blur(50px);
+	background: rgba(44, 53, 61, 0.2);
+	margin-bottom: 225px;
 }
 
 .main-aside__text {
-    padding-top: 60px;
-    text-align: center;
-    font-weight: 500;
-    font-size: 24px;
+	padding-top: 60px;
+	text-align: center;
+	font-weight: 500;
+	font-size: 24px;
 }
 
 .main-aside__brends-list {
-    padding: 60px 83px 56px 81px;
+	padding: 60px 83px 56px 81px;
 }
 
 .main-aside__brend-item:not(:last-child) {
-    margin-right: 107px;
+	margin-right: 107px;
 }
 
 .brend-microsoft {
-    width: 193px;
-    height: 42px;
-    background: url(/img/svg/main-aside-microsoft-ico.svg) no-repeat center;
+	width: 193px;
+	height: 42px;
+	background: url(/img/svg/main-aside-microsoft-ico.svg) no-repeat center;
 }
 .brend-google {
-    width: 157px;
-    height: 51px;
-    background: url(/img/svg/main-aside-google-ico.svg) no-repeat center;
+	width: 157px;
+	height: 51px;
+	background: url(/img/svg/main-aside-google-ico.svg) no-repeat center;
 }
 .brend-slack {
-    width: 194px;
-    height: 49px;
-    background: url(/img/svg/main-aside-slack-ico.svg) no-repeat center;
+	width: 194px;
+	height: 49px;
+	background: url(/img/svg/main-aside-slack-ico.svg) no-repeat center;
 }
 .brend-wordpress {
-    width: 194px;
-    height: 44px;
-    background: url(/img/svg/main-aside-wordpress-ico.svg) no-repeat center;
+	width: 194px;
+	height: 44px;
+	background: url(/img/svg/main-aside-wordpress-ico.svg) no-repeat center;
 }

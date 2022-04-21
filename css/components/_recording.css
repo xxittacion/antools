@@ -1,42 +1,42 @@
 .recording {
-    margin-bottom: 240px;
+	margin-bottom: 240px;
 }
 
 .recording__title {
-    width: 553px;
-    margin: 0 auto;
-    margin-bottom: 30px;
+	width: 553px;
+	margin: 0 auto;
+	margin-bottom: 30px;
 }
 
 .recording__text {
-    width: 427px;
-    text-align: center;
-    font-weight: 500;
-    margin: 0 auto;
-    margin-bottom: 100px;
+	width: 427px;
+	text-align: center;
+	font-weight: 500;
+	margin: 0 auto;
+	margin-bottom: 100px;
 }
 
 .recording__form {
-    transform: translateX(28%);
+	transform: translateX(28%);
 }
 
 .recording__form-enter-email {
-    width: 549px;
-    padding: 25px 402px 25px 24px;
-    font-weight: 400;
-    font-size: 14px;
-    border: none;
-    border-radius: 15px;
-    background: #283036;
+	width: 549px;
+	padding: 25px 402px 25px 24px;
+	font-weight: 400;
+	font-size: 14px;
+	border: none;
+	border-radius: 15px;
+	background: #283036;
 }
 
 .recording__form-btn-join {
-    color: #FFFFFF;
-    font-weight: 600;
-    font-size: 16px;
-    padding: 14px 36px;
-    border: none;
-    border-radius: 8px;
-    background: #FF6E30;
-    transform: translateX(-115%);
+	color: #FFFFFF;
+	font-weight: 600;
+	font-size: 16px;
+	padding: 14px 36px;
+	border: none;
+	border-radius: 8px;
+	background: #FF6E30;
+	transform: translateX(-115%);
 }

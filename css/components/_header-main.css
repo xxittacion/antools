@@ -1,66 +1,66 @@
 .header-main {
-    margin-top: 117px;
-    margin-bottom: 230px;
+	margin-top: 117px;
+	margin-bottom: 230px;
 }
 
 .header-main__title {
-    width: 600px;
-    font-size: 50px;
-    line-height: 140%;
-    margin-bottom: 30px;
+	width: 600px;
+	font-size: 50px;
+	line-height: 140%;
+	margin-bottom: 30px;
 }
 
 .header-main__text {
-    width: 487px;
-    line-height: 167%;
-    margin-bottom: 60px;
+	width: 487px;
+	line-height: 167%;
+	margin-bottom: 60px;
 }
 
 .header-main__form {
-    margin-bottom: 110px;
+	margin-bottom: 110px;
 }
 
 .header-main__form-search {
-    font-weight: 400;
-    font-size: 14px;
-    padding: 22px 252px 22px 55px;
-    border: none;
-    border-radius: 15px;
-    background: #283036 url(/img/svg/header-main-search-ico.svg) no-repeat left 18px center;
+	font-weight: 400;
+	font-size: 14px;
+	padding: 22px 252px 22px 55px;
+	border: none;
+	border-radius: 15px;
+	background: #283036 url(/img/svg/header-main-search-ico.svg) no-repeat left 18px center;
 }
 
 .header-main__btn-search {
-    position: absolute;
-    color: #FFFFFF;
-    font-weight: 600;
-    padding: 12px 36px;
-    border: none;
-    border-radius: 8px;
-    background: #FF6E30;
-    transform: translateX(-105%) translateY(20%);
+	position: absolute;
+	color: #FFFFFF;
+	font-weight: 600;
+	padding: 12px 36px;
+	border: none;
+	border-radius: 8px;
+	background: #FF6E30;
+	transform: translateX(-105%) translateY(20%);
 }
 
 .header-main__list {
-    transform: translateX(1%) translateY(38%);
+	transform: translateX(1%) translateY(38%);
 }
 
 .header-main__facebook {
-    width: 34px;
-    height: 34px;
-    display: inline-block;
-    margin-right: 26px;
-    background: url(/img/svg/header-main-facebook-ico.svg) no-repeat center;
+	width: 34px;
+	height: 34px;
+	display: inline-block;
+	margin-right: 26px;
+	background: url(/img/svg/header-main-facebook-ico.svg) no-repeat center;
 }
 .header-main__instagram {
-    width: 36px;
-    height: 36px;
-    display: inline-block;
-    margin-right: 26px;
-    background: url(/img/svg/header-main-instagram-ico.svg) no-repeat center;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	margin-right: 26px;
+	background: url(/img/svg/header-main-instagram-ico.svg) no-repeat center;
 }
 .header-main__twitter {
-    width: 36px;
-    height: 36px;
-    display: inline-block;
-    background: url(/img/svg/header-main-twitter-ico.svg) no-repeat center;
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	background: url(/img/svg/header-main-twitter-ico.svg) no-repeat center;
 }
