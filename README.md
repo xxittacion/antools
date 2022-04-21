@@ -1,8 +1,6 @@
 ## Это мой самостоятельный проект с использованием HTML5 & CSS3
 
-**Верстка по макету из Figma**  
-**cсылка на макет:**
-https://www.figma.com/file/B3j5GjKALOm84m2BzTmuf3/Antools
+**Верстка по макету из Figma, cсылка на макет: https://www.figma.com/file/B3j5GjKALOm84m2BzTmuf3/Antools**
 
 1. *Сброс всех базовых стилей через "reset"*
 2. *Настройка шрифтов "google fonts helper"*
