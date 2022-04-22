@@ -6,9 +6,9 @@
 
 /* components */
 @import "/css/components/_header.css";
-@import "/css/components/header-top.css";
-@import "/css/components/_header-main.css";
-@import "/css/components/_main-top.css";
+@import "/css/components/_headerTop.css";
+@import "/css/components/_headerMain.css";
+@import "/css/components/_mainTop.css";
 @import "/css/components/_main-aside.css";
 @import "/css/components/_main-content.css";
 @import "/css/components/_main-bottom.css";

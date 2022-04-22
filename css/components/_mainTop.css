@@ -1,40 +1,40 @@
-.main-top__title {
+.mainTop__title {
 	margin-top: 230px;
 	text-align: center;
 	margin-bottom: 31px;
 }
 
-.main-top__subtitle {
+.mainTop__subtitle {
 	width: 427px;
 	margin: 0 auto;
 	text-align: center;
 }
 
-.main-top__cards {
+.mainTop__cards {
 	margin-top: 117px;
 	justify-content: space-between;
 }
 
-.main-top__card {
+.mainTop__card {
 	width: 392px;
 	border-radius: 15px;
 	margin-bottom: 56px;
 	transition: 0.3s;
 }
-.main-top__card:hover, .main-top__card:focus {
+.mainTop__card:hover, .mainTop__card:focus {
 	transform: translateY(-6%);
 	border-radius: 15px;
 	backdrop-filter: blur(50px);
 	background: rgba(40, 48, 54, 0.6);
 }
 
-.main-top__card-title {
+.mainTop__cardTitle {
 	font-size: 24px;
 	display: inline-block;
 	margin: 33px 189px 6px 127px;
 }
 
-.card-figma::before {
+.cardFigma::before {
 	position: absolute;
 	content: "";
 	width: 64px;
@@ -43,7 +43,7 @@
 	transform: translateX(-150%) translateY(-10%);
 	background: url(/img/svg/main-top-card-figma-ico.svg) no-repeat center;
 }
-.card-sketch:before {
+.cardSketch:before {
 	position: absolute;
 	content: "";
 	width: 64px;
@@ -52,7 +52,7 @@
 	transform: translateX(-150%) translateY(-10%);
 	background: url(/img/svg/main-top-card-sketch-ico.svg) no-repeat center;
 }
-.card-visual-studio-code:before {
+.cardVisualStudioCode:before {
 	position: absolute;
 	content: "";
 	width: 62px;
@@ -61,7 +61,7 @@
 	transform: translateX(-150%) translateY(-10%);
 	background: url(/img/svg/main-top-card-visual-studio-code-ico.svg) no-repeat center;
 }
-.card-notion:before {
+.cardNotion:before {
 	position: absolute;
 	content: "";
 	width: 64px;
@@ -70,7 +70,7 @@
 	transform: translateX(-150%) translateY(-10%);
 	background: url(/img/svg/main-top-card-notion-ico.svg) no-repeat center;
 }
-.card-slack:before {
+.cardSlack:before {
 	position: absolute;
 	content: "";
 	width: 65px;
@@ -79,7 +79,7 @@
 	transform: translateX(-150%) translateY(-10%);
 	background: url(/img/svg/main-top-card-slack-ico.svg) no-repeat center;
 }
-.card-invision:before {
+.cardInvision:before {
 	position: absolute;
 	content: "";
 	width: 65px;
@@ -89,28 +89,28 @@
 	background: url(/img/svg/main-top-card-invision-ico.svg) no-repeat center;
 }
 
-.main-top__card-subtitle {
+.mainTop__cardSubtitle{
 	color: rgba(255, 165, 55, 0.55);
 	margin: 0 226px 0 127px;
 }
 
-.main-top__card-description {
+.mainTop__cardDescription {
 	font-size: 16px;
 	margin: 30px 33px 0 33px;
 }
 
-.main-top__card-like {
+.mainTop__cardLike {
 	width: 26px;
 	height: 21px;
 	display: inline-block;
 	margin: 41px 0 41px 40px;
 	background: url(/img/svg/main-top-card-like-ico.svg) no-repeat center;
 }   
-.main-top__card-like:active {
+.mainTop__cardLike:active {
 	background: url(/img/svg/main-top-card-like-active.svg) no-repeat center;
 }  
 
-.main-top__card-add-file {
+.mainTop__cardAddFile {
 	width: 25px;
 	height: 21px;
 	display: inline-block;
@@ -118,7 +118,7 @@
 	background: url(/img/svg/main-top-card-add-file-ico.svg) no-repeat center;
 }
 
-.main-top__card-link {
+.mainTop__cardLink{
 	position: absolute;
 	font-weight: 600;
 	padding: 12px 35px;
@@ -126,12 +126,12 @@
 	border-radius: 8px;
 	transition: 0.3s;
 }
-.main-top__card-link:hover, .main-top__card-link:focus {
+.mainTop__cardLink:hover, .main-top__cardLink:focus {
 	position: absolute;
 	background: #FF6E30;
 }
 
-.main-top__link {
+.mainTop__link {
 	display: inline-block;
 	margin: 43px 0px 200px 518px;
 	color: #FF6E30;
